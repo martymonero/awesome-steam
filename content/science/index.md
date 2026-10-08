@@ -103,6 +103,7 @@
 ### Chemistry Simulations
 - [3DMolecules](https://apps.apple.com/app/id1639183447) - An interactive 3D molecule simulation designed to immerse students to the world of chemistry through a hands-on experience.
 - [PhET Interactive Simulations](https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&type=html&sort=alpha&view=grid) - Interactive simulations covering common laboratory experiments and particle models of concepts. Teachers can “use the existing objective and open-response questions already provided and/or modify/create new questions.” Teacher directives are “kept to a minimum to encourage investigation.”
+- [Covalent](https://chempirical.com/covalent/) - Free structure editor in the browser that checks valence as you draw and labels R/S and E/Z, with worksheet templates and PDF export; works on Chromebooks and iPads without sign-up.
 
 ### Physics Simulations
 - [oPhysics](https://ophysics.com/index.html) - Growing collection of interactive physics simulations for every physics topic.
